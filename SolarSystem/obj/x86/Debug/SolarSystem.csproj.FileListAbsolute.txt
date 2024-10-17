@@ -1,0 +1,42 @@
+c:\users\владимир\documents\visual studio 2010\Projects\SolarSystem\SolarSystem\bin\Debug\SolarSystem.exe
+c:\users\владимир\documents\visual studio 2010\Projects\SolarSystem\SolarSystem\bin\Debug\SolarSystem.pdb
+c:\users\владимир\documents\visual studio 2010\Projects\SolarSystem\SolarSystem\obj\x86\Debug\SolarSystem.Properties.Resources.resources
+c:\users\владимир\documents\visual studio 2010\Projects\SolarSystem\SolarSystem\obj\x86\Debug\SolarSystem.csproj.GenerateResource.Cache
+c:\users\владимир\documents\visual studio 2010\Projects\SolarSystem\SolarSystem\obj\x86\Debug\SolarSystem.exe
+c:\users\владимир\documents\visual studio 2010\Projects\SolarSystem\SolarSystem\obj\x86\Debug\SolarSystem.pdb
+c:\users\владимир\documents\visual studio 2010\Projects\SolarSystem\SolarSystem\obj\x86\Debug\SolarSystem.Form1.resources
+C:\Users\Владимир\documents\visual studio 2010\Projects\SolarSystem\SolarSystem\obj\x86\Debug\SolarSystem.csprojResolveAssemblyReference.cache
+C:\Users\Владимир\Documents\Visual Studio 2010\Projects\SolarSystem1\SolarSystem\obj\x86\Debug\SolarSystem.exe
+C:\Users\Владимир\Documents\Visual Studio 2010\Projects\SolarSystem1\SolarSystem\obj\x86\Debug\SolarSystem.pdb
+C:\Users\Владимир\Documents\Visual Studio 2010\Projects\SolarSystem1\SolarSystem\obj\x86\Debug\SolarSystem.csprojResolveAssemblyReference.cache
+C:\Users\Владимир\Documents\Visual Studio 2010\Projects\SolarSystem1\SolarSystem\obj\x86\Debug\SolarSystem.Form1.resources
+C:\Users\Владимир\Documents\Visual Studio 2010\Projects\SolarSystem1\SolarSystem\obj\x86\Debug\SolarSystem.Properties.Resources.resources
+C:\Users\Владимир\Documents\Visual Studio 2010\Projects\SolarSystem1\SolarSystem\obj\x86\Debug\SolarSystem.csproj.GenerateResource.Cache
+C:\Users\Владимир\Documents\Visual Studio 2010\Projects\SolarSystem1\SolarSystem\bin\Debug\SolarSystem.exe
+C:\Users\Владимир\Documents\Visual Studio 2010\Projects\SolarSystem1\SolarSystem\bin\Debug\SolarSystem.pdb
+C:\Users\Владимир\Documents\Visual Studio 2010\Projects\SolarSystem6\SolarSystem\obj\x86\Debug\SolarSystem.exe
+C:\Users\Владимир\Documents\Visual Studio 2010\Projects\SolarSystem6\SolarSystem\obj\x86\Debug\SolarSystem.pdb
+C:\Users\Владимир\Documents\Visual Studio 2010\Projects\SolarSystem6\SolarSystem\bin\Debug\SolarSystem.exe
+C:\Users\Владимир\Documents\Visual Studio 2010\Projects\SolarSystem6\SolarSystem\bin\Debug\SolarSystem.pdb
+C:\Users\Владимир\Documents\Visual Studio 2010\Projects\SolarSystem6\SolarSystem\obj\x86\Debug\SolarSystem.Form1.resources
+C:\Users\Владимир\Documents\Visual Studio 2010\Projects\SolarSystem6\SolarSystem\obj\x86\Debug\SolarSystem.Properties.Resources.resources
+C:\Users\Владимир\Documents\Visual Studio 2010\Projects\SolarSystem6\SolarSystem\obj\x86\Debug\SolarSystem.csproj.GenerateResource.Cache
+C:\Users\Владимир\Documents\Visual Studio 2010\Projects\SolarSystem7\SolarSystem\obj\x86\Debug\SolarSystem.exe
+C:\Users\Владимир\Documents\Visual Studio 2010\Projects\SolarSystem7\SolarSystem\obj\x86\Debug\SolarSystem.pdb
+C:\Users\Владимир\Documents\Visual Studio 2010\Projects\SolarSystem7\SolarSystem\bin\Debug\SolarSystem.exe
+C:\Users\Владимир\Documents\Visual Studio 2010\Projects\SolarSystem7\SolarSystem\bin\Debug\SolarSystem.pdb
+C:\Users\Владимир\Documents\Visual Studio 2010\Projects\SolarSystem7\SolarSystem\obj\x86\Debug\SolarSystem.Form1.resources
+C:\Users\Владимир\Documents\Visual Studio 2010\Projects\SolarSystem7\SolarSystem\obj\x86\Debug\SolarSystem.Properties.Resources.resources
+C:\Users\Владимир\Documents\Visual Studio 2010\Projects\SolarSystem7\SolarSystem\obj\x86\Debug\SolarSystem.csproj.GenerateResource.Cache
+C:\Users\Владимир\Documents\Visual Studio 2010\Projects\SolarSystem7\SolarSystem\obj\x86\Debug\SolarSystem.csprojResolveAssemblyReference.cache
+E:\Курсовая\SolarSystem\SolarSystem\obj\x86\Debug\SolarSystem.exe
+E:\Курсовая\SolarSystem\SolarSystem\obj\x86\Debug\SolarSystem.pdb
+K:\Мой диск\Учёба\1 курс\КР по программированию\SolarSystem\SolarSystem\bin\Debug\SolarSystem.exe
+K:\Мой диск\Учёба\1 курс\КР по программированию\SolarSystem\SolarSystem\bin\Debug\SolarSystem.pdb
+K:\Мой диск\Учёба\1 курс\КР по программированию\SolarSystem\SolarSystem\obj\x86\Debug\SolarSystem.csproj.AssemblyReference.cache
+K:\Мой диск\Учёба\1 курс\КР по программированию\SolarSystem\SolarSystem\obj\x86\Debug\SolarSystem.Form1.resources
+K:\Мой диск\Учёба\1 курс\КР по программированию\SolarSystem\SolarSystem\obj\x86\Debug\SolarSystem.Properties.Resources.resources
+K:\Мой диск\Учёба\1 курс\КР по программированию\SolarSystem\SolarSystem\obj\x86\Debug\SolarSystem.csproj.GenerateResource.cache
+K:\Мой диск\Учёба\1 курс\КР по программированию\SolarSystem\SolarSystem\obj\x86\Debug\SolarSystem.csproj.CoreCompileInputs.cache
+K:\Мой диск\Учёба\1 курс\КР по программированию\SolarSystem\SolarSystem\obj\x86\Debug\SolarSystem.exe
+K:\Мой диск\Учёба\1 курс\КР по программированию\SolarSystem\SolarSystem\obj\x86\Debug\SolarSystem.pdb
